@@ -6,8 +6,9 @@
 ## Tecnologias que tenho conhecimento e uso no dia-a-dia 💡
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Jaspersoft](https://img.shields.io/badge/Jaspersoft-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jaspersoft](https://img.shields.io/badge/Jaspersoft-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+
 
 ## GitHub Stats ⚡
 <div>
